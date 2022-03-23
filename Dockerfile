@@ -8,5 +8,3 @@ COPY abs-guide/* /usr/share/nginx/html/
 
 # expose port 80 on the container
 EXPOSE 80
-
-#ENTRYPOINT ["/usr/sbin/nginx", "-g", "daemon-off"]

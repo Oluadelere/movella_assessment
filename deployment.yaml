@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
       - name:  absguideapp
-        image:  idla/absguide:latest
+        image:  oluadelere/absguide:latest
         ports:
         - containerPort:  80
